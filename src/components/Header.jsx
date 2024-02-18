@@ -46,8 +46,8 @@ const Header = () => {
               />
               <div className="text-sm flex flex-col">
                 <div className="flex items-center justify-between gap-4">
-                  <span>Jorge Luis Trejo</span>{" "}
-                  <span className="text-[8px]">21/10/2022</span>
+                  <span>Adrian Gonzalez</span>{" "}
+                  <span className="text-[8px]">21/10/2024</span>
                 </div>
                 <p className="text-gray-500 text-xs">
                   Lorem ipsum dolor sit amet...
@@ -64,10 +64,10 @@ const Header = () => {
               <div className="text-sm flex flex-col">
                 <div className="flex items-center justify-between gap-4">
                   <span>Nuevo like</span>{" "}
-                  <span className="text-[8px]">21/10/2022</span>
+                  <span className="text-[8px]">21/10/2024</span>
                 </div>
                 <p className="text-gray-500 text-xs">
-                  A Jorge Trejo le gusta tu pub...
+                  A Carlos Rivera le gusta tu pub...
                 </p>
               </div>
             </Link>
@@ -84,7 +84,7 @@ const Header = () => {
                   <span className="text-[8px]">21/10/2022</span>
                 </div>
                 <p className="text-gray-500 text-xs">
-                  Jorge Trejo ha comentado tu...
+                  Santiago Trejo ha comentado tu...
                 </p>
               </div>
             </Link>
@@ -106,7 +106,7 @@ const Header = () => {
                 src="https://img.freepik.com/foto-gratis/feliz-optimista-guapo-gerente-ventas-latina-apuntando-lado-mirando-camara_1262-12679.jpg"
                 className="w-6 h-6 object-cover rounded-full"
               />
-              <span>Jorge Luis Trejo</span>
+              <span>Adrian Gonzalez</span>
               <RiArrowDownSLine />
             </MenuButton>
           }
@@ -126,7 +126,7 @@ const Header = () => {
                 className="w-8 h-8 object-cover rounded-full"
               />
               <div className="flex flex-col text-sm">
-                <span className="text-sm">Jorge Luis Trejo</span>
+                <span className="text-sm">Adrian Gonzalez</span>
                 <span className="text-xs text-gray-500">jorge@gmail.com</span>
               </div>
             </Link>
