@@ -13,7 +13,7 @@ import Profile from "./pages/admin/Profile";
 import Chat from "./pages/admin/Chat";
 import Error404 from "./pages/Error404";
 import Tickets from "./pages/admin/Tickets";
-import Emails from "./pages/admin/Emails";
+//import Emails from "./pages/admin/Emails";
 
 function App() {
   return (
@@ -27,7 +27,6 @@ function App() {
           <Route path="perfil" element={<Profile />} />
           <Route path="chat" element={<Chat />} />
           <Route path="tickets" element={<Tickets />} />
-          <Route path="Emails" element={<Emails />} />
         </Route>
         <Route path="*" element={<Error404 />} />
       </Routes>
