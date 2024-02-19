@@ -106,7 +106,7 @@ const Header = () => {
                 src="https://www.dtssolutions.com.mx/images/icon.png"
                 className="w-6 h-6 object-cover rounded-full"
               />
-              <span>Samuel Garcia</span>
+              <span>Omar Campos</span>
               <RiArrowDownSLine />
             </MenuButton>
           }
