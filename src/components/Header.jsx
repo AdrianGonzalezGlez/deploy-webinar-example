@@ -67,7 +67,7 @@ const Header = () => {
                   <span className="text-[8px]">21/10/2024</span>
                 </div>
                 <p className="text-gray-500 text-xs">
-                  A Carlos Rivera le gusta tu pub...
+                  A Jesus Rivera le gusta tu pub...
                 </p>
               </div>
             </Link>
@@ -103,10 +103,10 @@ const Header = () => {
           menuButton={
             <MenuButton className="flex items-center gap-x-2 hover:bg-secondary-100 p-2 rounded-lg transition-colors">
               <img
-                src="https://img.freepik.com/foto-gratis/feliz-optimista-guapo-gerente-ventas-latina-apuntando-lado-mirando-camara_1262-12679.jpg"
+                src="https://www.dtssolutions.com.mx/images/icon.png"
                 className="w-6 h-6 object-cover rounded-full"
               />
-              <span>Adrian Gonzalez</span>
+              <span>Samuel Garcia</span>
               <RiArrowDownSLine />
             </MenuButton>
           }
