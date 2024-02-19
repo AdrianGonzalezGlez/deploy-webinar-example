@@ -41,7 +41,7 @@ const Header = () => {
               className="text-gray-300 flex flex-1 items-center gap-4 py-2 px-4 hover:bg-secondary-900 transition-colors rounded-lg"
             >
               <img
-                src="https://img.freepik.com/foto-gratis/feliz-optimista-guapo-gerente-ventas-latina-apuntando-lado-mirando-camara_1262-12679.jpg"
+                src="https://www.dtssolutions.com.mx/images/icon.png"
                 className="w-8 h-8 object-cover rounded-full"
               />
               <div className="text-sm flex flex-col">

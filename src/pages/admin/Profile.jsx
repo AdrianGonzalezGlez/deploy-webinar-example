@@ -24,7 +24,7 @@ const Profile = () => {
             <div className="flex-1">
               <div className="relative mb-2">
                 <img
-                  src="https://img.freepik.com/foto-gratis/negocios-finanzas-empleo-concepto-mujeres-emprendedoras-exitosas-joven-empresaria-segura-anteojos-mostrando-gesto-pulgar-arriba-sostenga-computadora-portatil-garantice-mejor-calidad-servicio_1258-59118.jpg"
+                  src="https://www.dtssolutions.com.mx/images/icon.png"
                   className="w-28 h-28 object-cover rounded-lg"
                 />
                 <label
