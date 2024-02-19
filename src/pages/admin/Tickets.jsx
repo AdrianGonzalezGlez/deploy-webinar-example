@@ -487,7 +487,7 @@ const Tickets = () => {
                         <p className="text-xs">
                           Check out our{" "}
                           <Link to="/" className="text-primary">
-                            jorge@gmail.com
+                            contosos@gmail.com
                           </Link>
                         </p>
                       </div>

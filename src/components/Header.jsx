@@ -127,7 +127,7 @@ const Header = () => {
               />
               <div className="flex flex-col text-sm">
                 <span className="text-sm">Adrian Gonzalez</span>
-                <span className="text-xs text-gray-500">jorge@gmail.com</span>
+                <span className="text-xs text-gray-500">contoso@gmail.com</span>
               </div>
             </Link>
           </MenuItem>
