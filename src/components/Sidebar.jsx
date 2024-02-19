@@ -97,12 +97,12 @@ const Sidebar = () => {
                 <RiCalendarTodoLine className="text-primary" /> Calendario
               </Link>
             </li>
-
-
-
-
-
-            
+            <Link
+                to="/Emails"
+                className="flex items-center gap-4 py-2 px-4 rounded-lg hover:bg-secondary-900 transition-colors"
+              >
+                <RiCustomerService2Line className="text-primary" /> Correo electronico
+              </Link>       
           </ul>
         </div>
         <nav>
@@ -128,11 +128,5 @@ export default Sidebar;
 
 
 /*<li>
-<Link
-  to="/Emails"
-  className="flex items-center gap-4 py-2 px-4 rounded-lg hover:bg-secondary-900 transition-colors"
->
-  <RiCalendarTodoLine className="text-primary" /> Emails
-</Link>
-</li>
+
 */
