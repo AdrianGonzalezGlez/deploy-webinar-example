@@ -10,7 +10,7 @@ const Emails = () => {
   const handleCreateClick = () => {
     setIsSubmitted(true);
     // Aquí puedes agregar lógica adicional, como enviar datos a un servidor
-    alert(`Gracias por suscribirse, ${firstName} ${lastName}!`);
+    alert(`Gracias por suscripción, ${firstName} ${lastName}!`);
     // Limpiar los campos de texto
     setEmail("");
     setFirstName("");
